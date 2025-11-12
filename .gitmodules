@@ -1,0 +1,24 @@
+[submodule "libs/glm"]
+	path = libs/glm
+	url = https://github.com/quyen194/glm.git
+[submodule "libs/json"]
+	path = libs/json
+	url = https://github.com/quyen194/json.git
+[submodule "libs/SDL"]
+	path = libs/SDL
+	url = https://github.com/quyen194/SDL.git
+[submodule "libs/SDL_image"]
+	path = libs/SDL_image
+	url = https://github.com/quyen194/SDL_image.git
+[submodule "libs/SDL_mixer"]
+	path = libs/SDL_mixer
+	url = https://github.com/quyen194/SDL_mixer.git
+[submodule "libs/SDL_ttf"]
+	path = libs/SDL_ttf
+	url = https://github.com/quyen194/SDL_ttf.git
+[submodule "libs/protobuf"]
+	path = libs/protobuf
+	url = https://github.com/quyen194/protobuf.git
+[submodule "libs/SDL_net"]
+	path = libs/SDL_net
+	url = https://github.com/quyen194/SDL_net.git
