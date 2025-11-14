@@ -22,3 +22,9 @@
 [submodule "libs/SDL_net"]
 	path = libs/SDL_net
 	url = https://github.com/quyen194/SDL_net.git
+[submodule "libs/websocketpp"]
+	path = libs/websocketpp
+	url = https://github.com/quyen194/websocketpp.git
+[submodule "libs/asio"]
+	path = libs/asio
+	url = https://github.com/quyen194/asio.git
