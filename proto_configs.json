@@ -1,0 +1,13 @@
+[
+    {
+        "input": [
+            "BomberManProto/client_msg.proto",
+            "BomberManProto/server_msg.proto"
+        ],
+        "cache": "BomberManProto/.cache.json",
+        "output": [
+            "BomberManClient/src/network/protocols",
+            "BomberManServer/src/network/protocols"
+        ]
+    }
+]
